@@ -1,0 +1,16 @@
+{
+  "name": "swipe-wheel",
+  "version": "1.0.0",
+  "main": "test.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "booldook@gmail.com",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {}
+}
