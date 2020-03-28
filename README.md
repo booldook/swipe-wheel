@@ -1,16 +1,16 @@
 # swipe-wheel
-## **Page-turn plug-in using mouse wheel events (landscape, portrait)**
+## **Page-turn plugin using mouse wheel events (landscape, portrait)**
 
 ### What is swipe-wheel?
 **Depending on the wheel event, the page moves horizontally or vertically**
 
 ### Get Started
-```
+```html
 <script src="jquery.swipe-wheel.min.js"></script>
 ```
 
 ### Usage
-```
+```html
 <div class="pages">
 	<div id="p1" class="page" data-id="0" data-prev="#p4" data-next="#p8" data-direction="vertical">
 		<div>page0</div>
